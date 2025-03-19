@@ -42,12 +42,12 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/alishojaeix/my-portfolio.git
 Navigate to the project directory:
 
 bash
 Copy
-cd your-repo-name
+cd  my-portfolio
 Open the project:
 
 Open the index.html file in your browser.
